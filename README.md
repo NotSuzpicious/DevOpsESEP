@@ -1,3 +1,3 @@
 # ReadeMe file for practical
 
-Some content of the readme file
+Rishi Kadam TY09 40
