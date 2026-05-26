@@ -1,5 +1,4 @@
 def add(int a, int b):
-	s = a+b
-	return s
+	return a+b
 
 print(add(2,3))
