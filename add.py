@@ -1,4 +1,4 @@
 def add(int a, int b):
 	return a+b
 
-print(add(2,3))
+print(add(2,4))
